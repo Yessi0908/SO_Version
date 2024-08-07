@@ -7,6 +7,10 @@ namespace Tarea03
         static void Main(string[] args)
         {
             Console.WriteLine("Sistemas Operativos");
+            Console.WriteLine("2do semestre, año 2024");
+            Console.WriteLine("Sexto semestre");
+
+
 
         }
     }
