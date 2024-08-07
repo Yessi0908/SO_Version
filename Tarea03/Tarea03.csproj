@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Cambio03.cs" />
     <Compile Include="File01.cs" />
+    <Compile Include="File02.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
