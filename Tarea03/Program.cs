@@ -10,6 +10,8 @@ namespace Tarea03
             Console.WriteLine("2do semestre, año 2024");
             Console.WriteLine("Sexto semestre");
 
+            Console.WriteLine("Tema 01. ¿Que es un sistema operativo");
+
 
 
         }
